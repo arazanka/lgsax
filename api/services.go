@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/adipatiarya/apis/utils"
+	"github.com/arazanka/lgsax/utils"
 )
 
 var headers = make(map[string]string)
