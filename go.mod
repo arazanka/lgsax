@@ -1,4 +1,4 @@
-module github.com/adipatiarya/apis
+module github.com/arazanka/lgsax
 
 go 1.13
 
