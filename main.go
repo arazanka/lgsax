@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/adipatiarya/apis/api"
+	"github.com/arazanka/lgsax/api"
 	"github.com/gin-gonic/gin"
 )
 
